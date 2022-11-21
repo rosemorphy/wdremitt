@@ -8,7 +8,7 @@ const Layout = ({children}) => {
   return (
     <>
       <Head>
-        <title>WorldRemit</title>
+        <title>WRemitt</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
