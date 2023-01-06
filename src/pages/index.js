@@ -25,7 +25,7 @@ export default function Home() {
               className='justify-content-end'
             >
               <Nav>
-                <Link href='https://wa.link/nugajg' passHref>
+                <Link href='https://wa.link/dhmo15' passHref>
                   <a target='_blank'>
                     <span className='live-updates'>Live chat</span>
                   </a>
@@ -55,7 +55,7 @@ export default function Home() {
       <Hero />
       <ChooseSection />
       <MobileSection />
-      <Link href='https://wa.link/nugajg'>
+      <Link href='https://wa.link/dhmo15'>
         <a target='_blank' className='liveChatBtn'>
           <FaWhatsappSquare className='icon' />
           Live Chat

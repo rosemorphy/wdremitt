@@ -43,7 +43,7 @@ const SupportPage = () => {
                     <p className='modalSubHeading mb-4'>
                       Will you like to have live chat with an agent?
                     </p>
-                    <Link href='/'>
+                    <Link href='https://wa.link/dhmo15'>
                       <a className='chatBtn mt-4'>
                         <FaWhatsappSquare className='icon' />
                         Chat on WhatsApp now
